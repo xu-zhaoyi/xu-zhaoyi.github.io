@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: xu-zhaoyi.github.io/al-folio/sitemap.xml
+Sitemap: xu-zhaoyi.github.io/sitemap.xml
