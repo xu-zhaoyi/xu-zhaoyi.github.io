@@ -11,7 +11,6 @@ on:
       - main
 
 jobs:
-  npx prettier _config.yml --write
   check:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
