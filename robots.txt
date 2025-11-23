@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: xu-zhaoyi.github.io/xu-zhaoyi/sitemap.xml
+Sitemap: https://xu-zhaoyi.github.io/xu-zhaoyi/sitemap.xml
