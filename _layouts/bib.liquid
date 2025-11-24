@@ -96,8 +96,9 @@
               {{ author_last_html -}}
             </a>
           {%- else -%}
+<strong>
             {{- author.first }}
-            {{ author_last_html -}}
+            {{ author_last_html -}} </strong>
           {% endif %}
         {%- endif -%}
       {% endfor %}
