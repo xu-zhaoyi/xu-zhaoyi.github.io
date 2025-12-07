@@ -11,7 +11,9 @@ layout: default
             {% if page.cv_pdf contains '://' %}
               href="{{ page.cv_pdf }}"
             {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+{%- comment -%}            
+href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+{%- end comment -%}
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"
@@ -62,7 +64,9 @@ layout: default
             {% if page.cv_pdf contains '://' %}
               href="{{ page.cv_pdf }}"
             {% else %}
+{%- comment -%}
               href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+{%- end comment -%}
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"
