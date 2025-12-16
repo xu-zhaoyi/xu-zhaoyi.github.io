@@ -17,10 +17,10 @@
       description:
         - Mechanical Engineering
         - GPA: 4.0 / 4.0
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
