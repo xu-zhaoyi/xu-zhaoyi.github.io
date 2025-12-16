@@ -6,17 +6,17 @@
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Chinese (Mandarin, Cantonese), English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: University of Michigan, Ann Arbor, Michigan, US
-      year: 2026
+      year: 2026 (expected)
       description:
-        - Description 1.
-        - Description 2.
+        - Mechanical Engineering
+        - GPA: 4.0 / 4.0
         - title: Description 3.
           contents:
             - Sub-description 1.
