@@ -16,8 +16,8 @@
       year: 2026 
       (expected)
       description: 
-        - Mechanical Engineering
-        - GPA 4.0/4.0
+        - Mechanical Engineering (GPA 4.0/4.0)
+        - Research in-vitro models for human development 
         #- title: Description 3.
         #  contents:
         #    - Sub-description 1.
@@ -26,8 +26,8 @@
       institution: University of Toronto, Toronto, Canada
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Mechanical Engineering (GPA 3.9/4.0)
+        - Thesis "An Improved Approach for Optogenetic Locomotion Control of Caenorhabditis Elegans"
 
 - title: Experience
   type: time_table
