@@ -6,8 +6,8 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: ZY.png
-  image_circular: false # crops the image to make it circular
+  image: zyprofile.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>2632 G.G. Brown Addition </p>
     <p>Department of Mechanical Engineering </p>
