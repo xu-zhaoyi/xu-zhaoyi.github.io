@@ -13,17 +13,18 @@
   contents:
     - title: PhD
       institution: University of Michigan, Ann Arbor, Michigan, US
-      year: 2026 (expected)
-      description:
+      year: 2026 
+      (expected)
+      description: 
         - Mechanical Engineering
-        - GPA: 4.0 / 4.0
+        - GPA: 4.0/4.0
         #- title: Description 3.
         #  contents:
         #    - Sub-description 1.
         #    - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Applied Science (MASc)
+      institution: University of Toronto, Toronto, Canada
+      year: 2021
       description:
         - Description 1.
         - Description 2.
