@@ -13,7 +13,9 @@
   contents:
     - title: Doctor of Philosophy (PhD)
       institution: University of Michigan, Ann Arbor, Michigan, US
-      year: "2026\n(expected)"
+      year: > 
+            2026
+            (expected)
       description: 
         - Mechanical Engineering (GPA 4.0/4.0)
         - Research in-vitro models for human development 
