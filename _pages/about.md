@@ -9,9 +9,11 @@ profile:
   image: zyprofile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>2632 G.G. Brown Addition </p>
-    <p>Department of Mechanical Engineering </p>
-    <p>University of Michigan, Ann Arbor, MI 48109</p>
+  <p>
+  <span>2632 G.G. Brown Addition</span>
+  <span>Department of Mechanical Engineering</span>,
+  <span>University of Michigan</span>
+  </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
