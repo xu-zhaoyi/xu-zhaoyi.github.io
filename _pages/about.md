@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>D2632 G.G. Brown Addition</p>
     <p>Department&nbsp;of&nbsp;Mechanical&nbsp;Engineering</p>
-    <p>University&nbsp;of&nbsp;Michigan,&nbsp;Ann&nbsp;Arbor,&nbsp;MI&nbsp;48109</p>
-  
+    <p>University&nbsp;of&nbsp;Michigan</p>
+    <p>Ann&nbsp;Arbor,&nbsp;MI&nbsp;48109</p>
+    
     <!--
     <p>2632 G.G. Brown Addition </p>
     <p>Department of Mechanical Engineering </p>
