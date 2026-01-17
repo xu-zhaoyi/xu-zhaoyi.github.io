@@ -37,16 +37,18 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD student researcher
+      institution: University of Michigan
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Professor Jianping Fu
+        - Project: Synthetic 3D hPSC Models on Peri-Implantation Development
         - title: Description 3.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events.
+            - Independently initiated and executed three sub-projects, leading to publications [5][6][7].
+
+            
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
