@@ -38,14 +38,14 @@
     type: time_table
     contents:
       - title: PhD student researcher
-      institution: University of Michigan
-      year: 2021 - Present
-      description:
-        - Supervisor: Professor Jianping Fu
-        - Project: Synthetic 3D hPSC Models on Peri-Implantation Development
-          contents:
-            - Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events.
-            - Independently initiated and executed three sub-projects, leading to publications [5][6][7].
+        institution: University of Michigan
+        year: 2021 - Present
+        description:
+          - Supervisor: Professor Jianping Fu
+          - Project: Synthetic 3D hPSC Models on Peri-Implantation Development
+            contents:
+              - Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events.
+              - Independently initiated and executed three sub-projects, leading to publications [5][6][7].
 
   - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
       year: 2022 - 2024
