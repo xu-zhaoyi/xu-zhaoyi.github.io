@@ -34,19 +34,10 @@
         - The Dean’s List
         - First Class Honours
 
- 
- - title: Research Experience
-    type: time_table
-    contents:
-      - title: PhD student researcher
-        institution: University of Michigan
-        year: 2021 - Present
-        description:
-          - Supervisor: Professor Jianping Fu
-          - Project: Synthetic 3D hPSC Models on Peri-Implantation Development
-       
 
-  - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
+
+            
+    - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
       year: 2022 - 2024
       description:
         - Developed the Acoustic Tweezing Cytometry (ATC) technology to study hPSCs' mechanosensitive properties, for large-scale production of functional motor neurons for medical applications.
