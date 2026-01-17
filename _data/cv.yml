@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: ":Zhaoyi Xu"
+      value: "Zhaoyi Xu"
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Languages
@@ -41,9 +41,8 @@
       institution: University of Michigan
       year: 2021 - Present
       description:
-        - Supervisor: Professor Jianping Fu
-        - Project: Synthetic 3D hPSC Models on Peri-Implantation Development
-        - title: Description 3.
+        - "Supervisor: Professor Jianping Fu"
+        - "Project: Synthetic 3D hPSC Models on Peri-Implantation Development"
           contents:
             - Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events.
             - Independently initiated and executed three sub-projects, leading to publications [5][6][7].
