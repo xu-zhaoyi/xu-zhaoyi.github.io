@@ -43,10 +43,10 @@
         year: 2021 - Present
         description:
           - title: "Supervisor"
-            content:
+            contents:
               - "Professor Jianping Fu"
           - title: "Project: Synthetic 3D hPSC Models on Peri-Implantation Development"
-            content:
+            contents:
               - "Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events."
               - "Independently initiated and executed three sub-projects, leading to publications [5][6][7]."
             
