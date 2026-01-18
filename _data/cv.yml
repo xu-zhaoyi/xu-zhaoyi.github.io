@@ -42,8 +42,8 @@
         institution: University of Michigan
         year: 2021 - Present
         description:
-          - supervisor: Professor Jianping Fu
-          - project: Synthetic 3D hPSC Models on Peri-Implantation Development
+          - "Supervisor: Professor Jianping Fu"
+          - "Project: Synthetic 3D hPSC Models on Peri-Implantation Development"
             
     - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
       year: 2022 - 2024
