@@ -42,9 +42,9 @@
       institution: University of Michigan
       year: 2021 - Present
       description:
-        - title: "Supervisor"
-          contents:
-            - "Professor Jianping Fu"
+        - title: "Supervisor: Professor Jianping Fu"
+          #contents:
+          #  - "Professor Jianping Fu"
         - title: "Project: Synthetic 3D hPSC Models on Peri-Implantation Development"
           contents:
             - "Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events."
