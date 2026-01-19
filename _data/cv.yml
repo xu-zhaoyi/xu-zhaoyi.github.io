@@ -50,11 +50,11 @@
             - "Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events."
             - "Independently initiated and executed three sub-projects, leading to publications [5][6][7]."
             
-    - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
-      year: 2022 - 2024
-      description:
-        - Developed the Acoustic Tweezing Cytometry (ATC) technology to study hPSCs' mechanosensitive properties, for large-scale production of functional motor neurons for medical applications.
-        - Participated as a core member of this NIH R01 grant, main contributor to two annual progress reports. Independently led experiments, mentored two graduate students, resulting in publication [1][5][6].
+        - title: Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry
+          year: 2022 - 2024
+          description:
+          - Developed the Acoustic Tweezing Cytometry (ATC) technology to study hPSCs' mechanosensitive properties, for large-scale production of functional motor neurons for medical applications.
+          - Participated as a core member of this NIH R01 grant, main contributor to two annual progress reports. Independently led experiments, mentored two graduate students, resulting in publication [1][5][6].
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -76,30 +76,3 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-#- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-#- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-#- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
