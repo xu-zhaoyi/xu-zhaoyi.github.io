@@ -42,7 +42,7 @@
       institution: University of Michigan
       year: 2021 - Present
       description:
-        - title: "Supervisor: Professor Jianping Fu"
+        - title: <p>Supervisor: Professor Jianping Fu</p>
           #contents:
           #  - "Professor Jianping Fu"
         - title: "Project: Synthetic 3D hPSC Models on Peri-Implantation Development"
