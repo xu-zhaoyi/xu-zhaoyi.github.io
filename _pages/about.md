@@ -9,12 +9,18 @@ profile:
   image: zyprofile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <div style="text-align: center;">
     <p>2632&nbsp;G.G.&nbsp;Brown&nbsp;Addition</p>
     <p>Department&nbsp;of&nbsp;Mechanical&nbsp;Engineering</p>
     <p>University&nbsp;of&nbsp;Michigan</p>
     <p>Ann&nbsp;Arbor,&nbsp;MI&nbsp;48109</p>
+    </div>
     
     <!--
+     <p>2632&nbsp;G.G.&nbsp;Brown&nbsp;Addition</p>
+    <p>Department&nbsp;of&nbsp;Mechanical&nbsp;Engineering</p>
+    <p>University&nbsp;of&nbsp;Michigan</p>
+    <p>Ann&nbsp;Arbor,&nbsp;MI&nbsp;48109</p>
     <p>2632 G.G. Brown Addition </p>
     <p>Department of Mechanical Engineering </p>
     <p>University of Michigan, Ann Arbor, MI 48109</p> -->
