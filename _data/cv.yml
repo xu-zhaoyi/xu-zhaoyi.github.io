@@ -98,26 +98,102 @@
       description:
         - title: "Project: 3D-Printed Devices with Negative Poisson’s Ratio"
           contents:
-            - "Collaborated with Dr. Lu Wen Feng and the AM.NUS team to develop medical protective equipment and soft robots with auxetic structures using 3D bioprinting."
+            - "Collaborated with Dr. Lu Wen Feng and the AM.NUS team to develop medical protective equipment and soft robots with auxetic structures using 3D bioprinting."    
 
-    
-- title: Open Source Projects
+
+
+- title: Selected Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2024
+      title: Young Investigator Award
+      institution: 8th Bioengineering and Translational Medicine Conference
 
-#- title: Honors and Awards
+    - year: 2021 – 2023
+      title: Rackham Travel Grant
+      institution: University of Michigan
+      description:
+        - "Total amount: USD 2,150"
+
+    - year: 2021
+      title: Mechanical Engineering Department Fellowship
+      institution: University of Michigan
+      description:
+        - "Total amount: USD 89,775"
+
+    - year: 2019 – 2021
+      title: MIE Department Fellowship
+      institution: University of Toronto
+      description:
+        - "Full scholarship"
+
+    - year: 2021
+      title: Barbara and Frank Milligan Fellowship
+      institution: University of Toronto
+      description:
+        - "Total amount: CAD 10,000"
+
+    - year: 2020
+      title: MIE Endowed Fellowship
+      institution: University of Toronto
+      description:
+        - "Total amount: CAD 3,000"
+
+    - year: 2019
+      title: President’s Cup
+      institution: Hong Kong University of Science and Technology
+      description:
+        - "Gold Award"
+
+    - year: 2018
+      title: Talent Development Scholarship
+      institution: Hong Kong SAR Government
+      description:
+        - "Total amount: HKD 10,000"
+
+    - year: 2016
+      title: Robot Design Contest
+      institution: Hong Kong University of Science and Technology
+      description:
+        - "Champion"
+
+    - year: 2013
+      title: China National Awarding Program of Future Scientists
+      description:
+        - "Top 100 nationwide"
+
+    - year: 2009
+      title: China Arts Grade Examination – Piano (Grade 10)
+      description:
+        - "Top level certification"
+
+
+- title: Volunteering and Services
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Volunteer
+      institution: Saskatoon Open Door Society
+      year: Jun 2023 – Present
+      description:
+        - "Location: Canada | 100+ voluntary hours"
+        - "Communication Circle Leader: Organized 20+ sessions providing language support to over 100 new immigrants, enhancing communication skills and cultural adaptation."
+        - "Youth Study Program Mentor & Interpreter: Led 60+ support hours for 40 immigrant high school students, providing academic guidance as the sole PhD volunteer."
+
+    - title: Student Communication Ambassador
+      institution: Hong Kong Education Exchange Center
+      year: Nov 2017 – Present
+      description:
+        - "Location: Hong Kong | 300+ voluntary hours"
+        - "Guided university and high school students on higher education pathways."
+        - "Organized training sessions and job fairs for career development."
+        - "Assisted 10+ students with successful school or job applications."
+
+    - title: Communication Representative
+      institution: Beijing–Hong Kong Academic Exchange Centre, Department of Science and Technology
+      year: May 2019 – Aug 2019
+      description:
+        - "Location: Hong Kong"
+
 
 #- title: Academic Interests
   type: nested_list
