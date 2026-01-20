@@ -173,14 +173,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: human developmental biology
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - human Pluripotent Cells (hPSCs)-derived models
+        - bioengineering platform studying hPSC tissues
+    - title: AI for health
       items:
-        - Description 1.
-        - Description 2.
+        - in-silico human embryo models
+        - image-based prediction of tissue development
 
 - title: Other Interests
   type: list
