@@ -57,6 +57,13 @@
     - title: PhD student researcher
       institution: University of Michigan
       year: 2022 - 2024
+      tags:
+        - mechanobiology
+        - acoustic tweezing
+        - biomechanics
+        - hPSC
+        - neural differentiation
+        - motor neurons
       description:
         - "Supervisor: Professor Jianping Fu, Professor Cheri Deng"
         - title: "Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry"
