@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: "Zhaoyi Xu"
+   - name: Email
+      value: zhaoyix@umich.edu
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Languages
@@ -17,10 +19,6 @@
       description: 
         - Mechanical Engineering (GPA 4.0/4.0)
         - Research in-vitro models for human development 
-        #- title: Description 3.
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
     - title: Master of Applied Science (MASc)
       institution: University of Toronto, Toronto, Canada
       year: 2021
