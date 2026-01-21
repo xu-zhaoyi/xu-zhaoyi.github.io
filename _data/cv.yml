@@ -5,8 +5,6 @@
       value: "Zhaoyi Xu"
     - name: Email
       value: zhaoyix@umich.edu
-    #- name: Date of Birth
-    #  value: 14th March 1879
     - name: Languages
       value: Chinese (Mandarin, Cantonese), English
 
@@ -14,30 +12,32 @@
   type: time_table
   contents:
     - title: Doctor of Philosophy (PhD)
-      institution: University of Michigan, Ann Arbor, Michigan, US
+      institution: University of Michigan, Ann Arbor, Michigan, USA
       year: "2026<br>(expected)"
       description: 
-        - Mechanical Engineering (GPA 4.0/4.0)
-        - Research in-vitro models for human development 
+        - Mechanical Engineering (GPA: 4.0/4.0)
+        - Research on in vitro models for human developmental biology
+
     - title: Master of Applied Science (MASc)
       institution: University of Toronto, Toronto, Canada
       year: 2021
       description:
-        - Mechanical Engineering (GPA 3.9/4.0)
-        - Thesis "An Improved Approach for Optogenetic Locomotion Control of Caenorhabditis Elegans"
+        - Mechanical Engineering (GPA: 3.9/4.0)
+        - 'Thesis: An Improved Approach for Optogenetic Locomotion Control of Caenorhabditis elegans'
+
     - title: Bachelor of Engineering
       institution: Hong Kong University of Science and Technology, Hong Kong, China
       year: 2019
       description:
         - First Class Honours
-        - The Dean’s List
+        - Dean’s List
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: PhD student researcher
+    - title: PhD Student Researcher
       institution: University of Michigan
-      year: 2021 - Present
+      year: 2021 – Present
       tags:
         - microfluidics
         - microfabrication
@@ -47,14 +47,14 @@
         - biomimetic systems
       description:
         - "Supervisor: Professor Jianping Fu"
-        - title: "Thesis: Synthetic 3D hPSC Models on Peri-Implantation Development"
+        - title: "Thesis: Synthetic 3D hPSC Models of Peri-Implantation Development"
           contents:
-            - "Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, replicating maternal tissue properties to study early human embryo development events."
-            - "Independently initiated and executed three sub-projects, leading to publications."
-            
-    - title: PhD student researcher
+            - "Developed biomimetic implantation-like niches for 3D hPSC organoid culture using microfluidics and microfabrication, recapitulating maternal tissue properties."
+            - "Independently initiated and led three sub-projects, resulting in peer-reviewed publications."
+
+    - title: PhD Student Researcher
       institution: University of Michigan
-      year: 2022 - 2024
+      year: 2022 – 2024
       tags:
         - mechanobiology
         - acoustic tweezing
@@ -63,32 +63,32 @@
         - neural differentiation
         - motor neurons
       description:
-        - "Supervisor: Professor Jianping Fu, Professor Cheri Deng"
+        - "Supervisors: Professor Jianping Fu, Professor Cheri Deng"
         - title: "Neural Differentiation of hPSCs via Acoustic Tweezing Cytometry"
           contents:
-          - Collaborated on developing the living soft microrobot, RoboWorm, using optogenetic control of C. elegans with microfluidic tools; resulted in a notable Science Robotics publication (publication [2]).
-          - My work improved RoboWorm technology, elevating success rate from 7.1\% to 80.77\%, by creating a new transgenic C. elegans strain and enhancing the control system's robustness.
-          - Collaborated closely with the renowned molecular biology team at Mount Sinai Hospital (Zhen lab) on a daily basis.
+            - "Contributed to the development of the living soft microrobot RoboWorm using optogenetic control of Caenorhabditis elegans with microfluidic platforms, leading to a Science Robotics publication."
+            - "Improved system performance by increasing the success rate from 7.1% to 80.77% through creation of a new transgenic C. elegans strain and enhanced control robustness."
+            - "Collaborated closely with the molecular biology team at Mount Sinai Hospital (Zhen Lab)."
 
     - title: MASc Student Researcher
       institution: University of Toronto
       year: 2019 – 2021
       description:
         - "Supervisor: Professor Xinyu Liu"
-        - title: "Thesis: An Improved Approach for Optogenetic Locomotion Control of Caenorhabditis elegans"
+        - title: "Thesis: Optogenetic Locomotion Control of Caenorhabditis elegans"
           contents:
-            - "Collaborated on developing the living soft microrobot RoboWorm using optogenetic control of C. elegans with microfluidic tools, resulting in a Science Robotics publication."
-            - "Improved RoboWorm technology by increasing success rate from 7.1% to 80.77% through creation of a new transgenic C. elegans strain and enhanced control robustness."
+            - "Co-developed RoboWorm, a living soft microrobot controlled via optogenetics and microfluidic tools, resulting in a Science Robotics publication."
+            - "Enhanced locomotion control success rate from 7.1% to 80.77% through genetic and control-system improvements."
             - "Worked closely with the molecular biology team at Mount Sinai Hospital (Zhen Lab)."
 
     - title: Undergraduate Researcher
       institution: HKUST Robotics Institute
       year: 2018 – 2019
       description:
-        - title: "Final-Year Project: Gecko-Inspired Symbiosis Robotics End-Effector"
+        - title: "Final-Year Project: Gecko-Inspired Symbiotic Robotic End-Effector"
           contents:
-            - "Designed and microfabricated a gecko-inspired gripper for delicate industrial object handling using 3D printing and finite element analysis."
-            - "Led a team of four students with over 300 research hours; project awarded the HKUST President’s Cup for outstanding final-year projects."
+            - "Designed and microfabricated a gecko-inspired gripper for delicate object handling using 3D printing and finite element analysis."
+            - "Led a team of four students (300+ research hours); project awarded the HKUST President’s Cup for outstanding final-year projects."
 
     - title: Undergraduate Student Researcher
       institution: NUS Centre for Additive Manufacturing (AM.NUS)
@@ -96,53 +96,42 @@
       description:
         - title: "Project: 3D-Printed Devices with Negative Poisson’s Ratio"
           contents:
-            - "Collaborated with Dr. Lu Wen Feng and the AM.NUS team to develop medical protective equipment and soft robots with auxetic structures using 3D bioprinting."    
+            - "Collaborated with Dr. Lu Wen-Feng and the AM.NUS team to develop auxetic structures for medical protective equipment and soft robotics using advanced 3D printing."
 
 - title: Selected Awards
   type: time_table
   contents:
     - year: 2024
       items:
-        - "Young Investigator Award - 8th Bioengineering and Translational Medicine Conference"
-
+        - "Young Investigator Award – 8th Bioengineering and Translational Medicine Conference"
     - year: 2021–2023
       items:
-        - "UMich Rackham Travel Grant - USD 2,150"
-
+        - "UMich Rackham Travel Grant – USD 2,150"
     - year: 2021
       items:
-        - "UMich Mechanical Engineering Department Fellowship - USD 89,775"
-        - "UofT Barbara and Frank Milligan Fellowship - CAD 10,000"
-
+        - "UMich Mechanical Engineering Department Fellowship – USD 89,775"
+        - "UofT Barbara and Frank Milligan Fellowship – CAD 10,000"
     - year: 2019–2021
       items:
-        - "UofT MIE Department Fellowship - Full Scholarship"
-
+        - "UofT MIE Department Fellowship – Full Scholarship"
     - year: 2020
       items:
-        - "UofT MIE Endowed Fellowship - CAD 3,000"
-
+        - "UofT MIE Endowed Fellowship – CAD 3,000"
     - year: 2019
       items:
-        - "HKUST President’s Cup - Gold Award"
-
+        - "HKUST President’s Cup – Gold Award"
     - year: 2018
       items:
-        - "HKSAR Government Talent Development Scholarship - HKD 10,000"
-
+        - "HKSAR Government Talent Development Scholarship – HKD 10,000"
     - year: 2016
       items:
-        - "HKUST Robot Design Contest - Champion"
-
+        - "HKUST Robot Design Contest – Champion"
     - year: 2013
       items:
-        - "China National Awarding Program of Future Scientists - Top 100"
-
+        - "China National Awarding Program of Future Scientists – Top 100"
     - year: 2009
       items:
-        - "China Arts Grade Examination - Piano, Grade 10 - Top Level"
-
-
+        - "China Arts Grade Examination – Piano, Grade 10"
 
 - title: Volunteering and Services
   type: time_table
@@ -151,17 +140,16 @@
       institution: Saskatoon Open Door Society
       year: 2023 – Present
       description:
-        - "Location: Canada | 100+ voluntary hours"
-        - "Communication Circle Leader: Organized 20+ sessions providing language support to over 100 new immigrants, enhancing communication skills and cultural adaptation."
-        - "Youth Study Program Mentor & Interpreter: Led 60+ support hours for 40 immigrant high school students, providing academic guidance as the sole PhD volunteer."
+        - "Location: Canada | 100+ volunteer hours"
+        - "Communication Circle Leader: Organized 20+ sessions supporting over 100 new immigrants."
+        - "Youth Study Program Mentor & Interpreter: Provided academic and language support for 40 immigrant high school students."
 
     - title: Student Communication Ambassador
       institution: Hong Kong Education Exchange Center
       year: 2017 – Present
       description:
-        - "Location: Hong Kong | 300+ voluntary hours"
-        - "Guided university and high school students on higher education pathways."
-        - "Organized training sessions and job fairs for career development."
+        - "Location: Hong Kong | 300+ volunteer hours"
+        - "Advised students on higher education pathways and career development."
         - "Assisted 10+ students with successful school or job applications."
 
     - title: Communication Representative
@@ -169,7 +157,6 @@
       year: 2019
       description:
         - "Location: Hong Kong"
-
 
 - title: Academic Interests
   type: nested_list
@@ -180,7 +167,7 @@
         - Bioengineering platforms for studying hPSC tissues
     - title: AI for health
       items:
-        - In silico human embryo models
+        - In silico human embryo modeling
         - Image-based prediction of tissue development
 
 - title: Other Interests
