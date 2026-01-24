@@ -38,10 +38,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am currently pursuing my PhD at the University of Michigan, Ann Arbor, under the supervision of Professor Jianping Fu. My research focuses on the interdisciplinary integration of developmental cell biology and engineering, with particular interests in cell mechanobiology and organoid development. I use advanced engineering and computational approaches to model early human developmental processes and to study questions related to human development and health.
 
-Zhaoyi Xu is a PhD candidate at University of Michigan, Ann Arbor, USA. 
-
-Zhaoyi Xu received her BEng degree from the Hong Kong University of Science and Technology in 2019 and her MASc degree in Mechanical Engineering from the University of Toronto in 2021. She is currently pursuing her PhD at the University of Michigan, where she specializes in the interdisciplinary integration of developmental cell biology and engineering. Her research focuses on cell mechanobiology and organoid development, utilizing advanced engineering and computational approaches to model early human developmental processes.
+Prior to my doctoral studies, I received my BEng degree from the Hong Kong University of Science and Technology in 2019 and an MASc in Mechanical Engineering from the University of Toronto in 2021. Having lived and studied in Mainland China, Hong Kong, Singapore, Canada, and the United States, I have developed a rich and diverse cultural background, bringing a global perspective that continues to shape and enrich my academic and collaborative work.
 
 
 <!--I'm a passionate PhD candidate at the University of Michigan, specializing in the interdisciplinary realms of developmental cell biology and engineering. My research is centered on the domains of cell mechanobiology and organoid development, employing advanced engineering techniques, especially controlled microfluidics systems and acoustics. 
