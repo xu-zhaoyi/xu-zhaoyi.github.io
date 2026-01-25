@@ -46,7 +46,7 @@ Prior to my doctoral studies, I received my BEng degree from the Hong Kong Unive
 
 <h2 class="section-heading">research interests</h2>
 
-<ul style="margin-bottom: 5em;">
+<ul style="margin-bottom: 2.5em;">
   <li>Numerical Optimization & Multigrid Computational Methods</li>
   <li>Interpretable/Reliable AI Models & Scientific Computing & Compressive Sensing</li>
   <li>Interpretable/Reliable AI Models and Computational Imaging</li>
