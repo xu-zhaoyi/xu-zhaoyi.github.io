@@ -44,8 +44,8 @@ I am currently a PhD student at the University of Michigan, Ann Arbor, under the
 Prior to my doctoral studies, I received my BEng degree from the Hong Kong University of Science and Technology in 2019 and an MASc in Mechanical Engineering from the University of Toronto in 2021. Having lived and studied in Mainland China, Hong Kong, Singapore, Canada, and the United States, I have developed a rich and diverse cultural background, bringing a global perspective that continues to shape and enrich my academic and collaborative work.
 
 
-<h2 class="section-heading">Research interests</h2>
-======
+#<h2 class="section-heading">Research interests</h2>
+#======
 
 <ul style= "margin-bottom: 5em;">
   <li>Numerical Optimization & Multigrid Computational Methods</li>
