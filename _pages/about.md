@@ -38,13 +38,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a PhD student at the University of Michigan, Ann Arbor, under the supervision of Professor <a href="https://me-web.engin.umich.edu/ibbl/fu.html" target="_blank">Jianping Fu</a>. My research lies at the intersection of biology and engineering, with a focus on investigating human development and health. Specifically, I employ human stem cell-based organoids and bioengineering tools to model early human developmental processes. In addition, I am interested in inverse problems and medical image analysis, with a focus on developing interpretable AI models for healthcare applications.
+I am currently a PhD student at the University of Michigan, Ann Arbor, under the supervision of Professor <a href="https://me-web.engin.umich.edu/ibbl/fu.html" target="_blank">Jianping Fu</a>. My research lies at the intersection of biology and engineering, with a focus on understanding human development and health. Specifically, I employ human pluripotent stem cell (hPSC)–based organoids to model early human developmental processes. In addition, I am interested in inverse problems and medical image analysis, with an emphasis on developing interpretable AI models for healthcare applications.
 
 
 Prior to my doctoral studies, I received my BEng degree from the Hong Kong University of Science and Technology in 2019 and an MASc in Mechanical Engineering from the University of Toronto in 2021. Having lived and studied in Mainland China, Hong Kong, Singapore, Canada, and the United States, I have developed a rich and diverse cultural background, bringing a global perspective that continues to shape and enrich my academic and collaborative work.
 
 
-<h2 class="section-heading">Research interests</h2>
+<h2 class="section-heading">research interests</h2>
 
 <ul style="margin-bottom: 5em;">
   <li>Numerical Optimization & Multigrid Computational Methods</li>
