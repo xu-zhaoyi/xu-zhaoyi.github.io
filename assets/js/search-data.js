@@ -396,8 +396,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-work-convergent-complex-quasi-newton-proximal-methods-for-gradient-driven-denoisers-in-compressed-sensing-mri-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile-a-simple-inline-announcement-with-markdown-emoji-sparkles",
+          title: 'Our work Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing...',
           description: "",
           section: "News",},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
           title: 'I am thrilled to receive the Young Investigator Award at the 8th Bioengineering...',
