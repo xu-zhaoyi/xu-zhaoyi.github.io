@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work <a href="https://arxiv.org/abs/2505.04820" target="_blank">Using Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction</a> was accepted to IEEE Transactions on Computational Imaging! :smile:
+Our work <a href="https://arxiv.org/abs/2411.08178" target="_blank">Using Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction</a> was accepted to IEEE Transactions on Computational Imaging! :smile:
