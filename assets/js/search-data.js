@@ -396,11 +396,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-convergent-complex-quasi-newton-proximal-methods-for-gradient-driven-denoisers-in-compressed-sensing-mri-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile",
-          title: 'Our work Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing...',
-          description: "",
-          section: "News",},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
+            },},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
           title: 'I am thrilled to receive the Young Investigator Award at the 8th Bioengineering...',
+          description: "",
+          section: "News",},{id: "news-our-work-convergent-complex-quasi-newton-proximal-methods-for-gradient-driven-denoisers-in-compressed-sensing-mri-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile",
+          title: 'Our work Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
