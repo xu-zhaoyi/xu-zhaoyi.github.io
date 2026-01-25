@@ -5,4 +5,10 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work <a href="[https://me-web.engin.umich.edu/ibbl/fu.html](https://arxiv.org/abs/2505.04820)" target="_blank">Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction</a> was accepted to IEEE Transactions on Computational Imaging! :smile:
+
+
+
+
+
+#A simple inline announcement with Markdown emoji! :sparkles: 
