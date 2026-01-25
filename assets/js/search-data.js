@@ -399,7 +399,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference",
+          section: "News",},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
           title: 'I am thrilled to receive the Young Investigator Award at the 8th Bioengineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
