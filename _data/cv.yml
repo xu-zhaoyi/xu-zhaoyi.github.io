@@ -165,10 +165,11 @@
       items:
         - Human pluripotent stem cell (hPSC)-derived models
         - Bioengineering platforms for studying hPSC tissues
-    - title: AI for health
+    - title: Interpretable/Reliable AI Models for health
       items:
         - In silico human embryo modeling
-        - Image-based prediction of tissue development
+        - Computational Imaging and Image-based prediction of tissue development
+        
 
 - title: Other Interests
   type: list
