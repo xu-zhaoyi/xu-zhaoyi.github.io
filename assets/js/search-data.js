@@ -391,11 +391,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
           title: 'I am thrilled to receive the Young Investigator Award at the 8th Bioengineering...',
           description: "",
