@@ -174,4 +174,5 @@
 - title: Other Interests
   type: list
   contents:
-    - "<u>Hobbies:</u> Cooking, houseplant gardening"
+    - "Cooking, houseplant gardening"
+   # - "<u>Hobbies:</u> Cooking, houseplant gardening"
