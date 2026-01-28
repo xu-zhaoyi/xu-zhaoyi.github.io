@@ -48,7 +48,7 @@ Prior to my doctoral studies, I received my BEng degree from the Hong Kong Unive
 <ul style="margin-bottom: 2.5em;">
   <li>Human developmental biology</li>
   <li>Human pluripotent stem cell (hPSC) models and therapies</li>
-  <li>Interpretable/Reliable AI Models for health</li>
+  <li>Interpretable/Reliable AI models for health</li>
 </ul>
 
 
