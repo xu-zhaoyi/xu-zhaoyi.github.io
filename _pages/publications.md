@@ -14,11 +14,12 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="Publications">
 
+##Journals
 {% bibliography --query @*[pubtype=journal] %}
 
-## Conference Proceedings
+## Conferences
 {% bibliography --query @*[pubtype=conference] %}
 
 
