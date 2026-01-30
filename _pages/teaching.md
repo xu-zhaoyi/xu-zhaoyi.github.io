@@ -1,15 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 subtitle: Materials for courses you taught.
 nav: true
 nav_order: 6
 ---
 
+## Teaching Assistant
+
 - **ME 335**: Heat Transfer, University of Michigan, Winter 2026
 - **ME 495**: Laboratory II, University of Michigan, Fall 2025
-- **ECE MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
+- **MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
 
  <!-- 
 \begin{joblong}{ME 335 Heat Transfer}{University of Michigan, Winter 2026}
@@ -52,17 +54,14 @@ nav_order: 6
          alt="Profile photo"
          style="width:100%; border-radius:6px;" />
 
-    <div style="margin-top:1rem; font-size:0.95rem;">
-      <p>Lingyua Li </p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-    </div>
   </div>
 
   <!-- Right: text -->
   <div style="flex:1;">
-    <p>
-     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. Contact me: llyuan@seas.upenn.edu
+   <p>Lingyua Li </p>
+   <p>Contact me: llyuan@seas.upenn.edu </p> 
+   <p>
+     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. 
     </p>
 
 </div>
