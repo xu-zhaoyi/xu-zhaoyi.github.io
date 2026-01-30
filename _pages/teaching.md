@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-- **ME 335 **: Heat Transfer, University of Michigan, Winter 2026
+- **ME 335**: Heat Transfer, University of Michigan, Winter 2026
 - **ME 495**: Laboratory II, University of Michigan, Fall 2025
 - **ECE MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
 
@@ -70,6 +70,9 @@ nav_order: 6
      I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. Contact me: llyuan@seas.upenn.edu
     </p>
 
+</div>
+
+<!--
     <p>
       You can put a picture in too. The code is already in, just name
       your picture <code>prof_pic.jpg</code> and put it in the
@@ -80,6 +83,5 @@ nav_order: 6
       Link to your social media connections too. This theme is set up
       to use Font Awesome icons and Academicons.
     </p>
+  -->
   </div>
-
-</div>
