@@ -46,8 +46,8 @@ nav_order: 6
 - Charlie Wang
 
 ### Alumni
-- Lingyua Li 
 -->
+
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
@@ -58,7 +58,7 @@ nav_order: 6
          style="width:100%; border-radius:6px;" />
 
     <div style="margin-top:1rem; font-size:0.95rem;">
-      <p>555 your office number</p>
+      <p>Lingyua Li </p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
     </div>
