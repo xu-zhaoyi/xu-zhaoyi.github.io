@@ -54,8 +54,7 @@ nav_order: 6
   <!-- Right: text -->
   <div style="flex:1;">
     <p>
-      Write your biography here. Tell the world about yourself.
-      Link to your favorite <a href="https://www.reddit.com">subreddit</a>.
+     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.
     </p>
 
     <p>
