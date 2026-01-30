@@ -7,29 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-{% include profile.html
-   image="/assets/img/zyprofile.jpg"
-   more_info="<p>555 your office number</p><p>123 your address street</p><p>Your City, State 12345</p>"
-%}
-
-## About
-Write your biography here.
-
----
-
-## Teaching
-### Current Courses
-- **ECE 5XXX**: Advanced Imaging Systems (Fall 2025)
-
-
-## About
-
-Write your biography here.  
-Tell the world about yourself, your research interests, and your group.
-
-You can add links, for example to a [subreddit](https://www.reddit.com).
-
----
 
 ## Teaching
 
@@ -54,3 +31,43 @@ You can add links, for example to a [subreddit](https://www.reddit.com).
 
 ### Alumni
 - David Lee (now at XXX)
+
+
+
+
+
+<div style="display:flex; gap:2rem; align-items:flex-start;">
+
+  <!-- Left: image + contact -->
+  <div style="width:260px; flex-shrink:0;">
+    <img src="/assets/img/zyprofile.jpg"
+         alt="Profile photo"
+         style="width:100%; border-radius:6px;" />
+
+    <div style="margin-top:1rem; font-size:0.95rem;">
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+    </div>
+  </div>
+
+  <!-- Right: text -->
+  <div style="flex:1;">
+    <p>
+      Write your biography here. Tell the world about yourself.
+      Link to your favorite <a href="https://www.reddit.com">subreddit</a>.
+    </p>
+
+    <p>
+      You can put a picture in too. The code is already in, just name
+      your picture <code>prof_pic.jpg</code> and put it in the
+      <code>assets/img/</code> folder.
+    </p>
+
+    <p>
+      Link to your social media connections too. This theme is set up
+      to use Font Awesome icons and Academicons.
+    </p>
+  </div>
+
+</div>
