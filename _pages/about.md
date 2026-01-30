@@ -9,7 +9,7 @@ profile:
   image: zyprofile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <div style="text-align: center;">
+    <div style="text-align: center; font-size:0.95rem; line-height:1.3;">
     <p>2632&nbsp;G.G.&nbsp;Brown&nbsp;Addition</p>
     <p>Mechanical&nbsp;Engineering&nbsp;Department</p>
     <p>University&nbsp;of&nbsp;Michigan</p>
