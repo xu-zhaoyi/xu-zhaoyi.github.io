@@ -57,13 +57,12 @@ nav_order: 6
   </div>
 
   <!-- Right: text -->
+  **Lingyuan Li**
   <div style="flex:1;">
-   <p>Lingyuan Li </p>
-   <p>Contact me: llyuan@seas.upenn.edu </p> 
    <p>
      I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. 
     </p>
-
+    <p>Contact me: llyuan@seas.upenn.edu </p> 
 </div>
 
 <!--
