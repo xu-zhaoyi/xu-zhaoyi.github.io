@@ -16,7 +16,7 @@ nav_order: 2
 
 <div class="Publications">
 
-##Journals
+## Journals
 {% bibliography --query @*[pubtype=journal] %}
 
 ## Conferences
