@@ -17,14 +17,12 @@ nav_order: 6
 \item Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
 \item Developed experience in large-class teaching and course coordination.
 \end{joblong}
-
 \begin{joblong}{ME 495 Laboratory II}{University of Michigan, Fall 2025}
 \item[] {\hspace{-0.4cm}{\textcolor{black!80}{Graduate Student Instructor (Teaching Assistant) (20 hrs/week)}}} 
 \item Designed and taught two lab sections (24 students) for senior-level laboratory course.
 \item Broad topics included heat transfer, mechanical dynamics, and AFM-based nanoscale metrology.
 \item Gained extensive self-directed learning and close student mentorship.
 \end{joblong}
-
 \begin{joblong}{MIE 342 Circuits with Applications to Mechanical Engineering Systems}{University of Toronto, Fall 2020} 
 \item[] {\hspace{-0.4cm}{\textcolor{black!80}{Teaching Assistant (15 hrs/week)}}}
 \item Supported a lab course of \textasciitilde{130} students in a four-TA team.
