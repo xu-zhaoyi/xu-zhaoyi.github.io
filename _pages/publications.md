@@ -16,10 +16,10 @@ nav_order: 2
 
 <div class="publications">
 
-## Journals
+<h2>Journals</h2>
 {% bibliography --query @*[pubtype=journal] %}
 
-## Conferences
+<h2>Conferences</h2>
 {% bibliography --query @*[pubtype=conference] %}
 
 
