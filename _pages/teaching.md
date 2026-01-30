@@ -2,20 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+subtitle: Materials for courses you taught.
 nav: true
 nav_order: 6
+---
 
-profile:
-  align: right
-  image: /assets/img/zyprofile.jpg
-  image_circular: false
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+{% include profile.html
+   image="/assets/img/zyprofile.jpg"
+   more_info="<p>555 your office number</p><p>123 your address street</p><p>Your City, State 12345</p>"
+%}
+
+## About
+Write your biography here.
 
 ---
+
+## Teaching
+### Current Courses
+- **ECE 5XXX**: Advanced Imaging Systems (Fall 2025)
+
 
 ## About
 
