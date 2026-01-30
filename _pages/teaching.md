@@ -7,16 +7,29 @@ nav: true
 nav_order: 6
 ---
 
+- **ME 335 **: Heat Transfer, University of Michigan, Winter 2026
+- **ME 495**: Laboratory II, University of Michigan, Fall 2025
+- **ECE MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
 
-## Teaching
+ <!-- 
+\begin{joblong}{ME 335 Heat Transfer}{University of Michigan, Winter 2026}
+\item[] {\hspace{-0.4cm}{\textcolor{black!80}{Graduate Student Instructor (Teaching Assistant) (20 hrs/week)}}}
+\item Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
+\item Developed experience in large-class teaching and course coordination.
+\end{joblong}
 
-### Current Courses
-- **ECE 5XXX**: Advanced Imaging Systems (Fall 2025)
-- **ECE 6XXX**: Optimization for Inverse Problems (Spring 2026)
+\begin{joblong}{ME 495 Laboratory II}{University of Michigan, Fall 2025}
+\item[] {\hspace{-0.4cm}{\textcolor{black!80}{Graduate Student Instructor (Teaching Assistant) (20 hrs/week)}}} 
+\item Designed and taught two lab sections (24 students) for senior-level laboratory course.
+\item Broad topics included heat transfer, mechanical dynamics, and AFM-based nanoscale metrology.
+\item Gained extensive self-directed learning and close student mentorship.
+\end{joblong}
 
-### Past Courses
-- **ECE 4XXX**: Signals and Systems
-- **ECE 5XXX**: Medical Image Reconstruction
+\begin{joblong}{MIE 342 Circuits with Applications to Mechanical Engineering Systems}{University of Toronto, Fall 2020} 
+\item[] {\hspace{-0.4cm}{\textcolor{black!80}{Teaching Assistant (15 hrs/week)}}}
+\item Supported a lab course of \textasciitilde{130} students in a four-TA team.
+\item Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition.
+\end{joblong}
 
 ---
 
@@ -29,11 +42,10 @@ nav_order: 6
 ### Postdocs
 - Charlie Wang
 
+-->
+
 ### Alumni
-- David Lee (now at XXX)
-
-
-
+- Lingyua Li 
 
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
