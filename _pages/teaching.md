@@ -34,7 +34,7 @@ nav_order: 6
 
 ---
 
-## Students & Group Members
+## Students Mentoring
 
 <!-- 
 ### PhD Students
