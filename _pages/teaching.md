@@ -30,10 +30,13 @@ nav_order: 6
 \item Supported a lab course of \textasciitilde{130} students in a four-TA team.
 \item Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition.
 \end{joblong}
+-->
 
 ---
 
 ## Students & Group Members
+
+<!-- 
 
 ### PhD Students
 - Alice Smith (2023–)
@@ -42,11 +45,9 @@ nav_order: 6
 ### Postdocs
 - Charlie Wang
 
--->
-
 ### Alumni
 - Lingyua Li 
-
+-->
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
