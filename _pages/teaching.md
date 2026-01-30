@@ -37,14 +37,11 @@ nav_order: 6
 ## Students & Group Members
 
 <!-- 
-
 ### PhD Students
 - Alice Smith (2023–)
 - Bob Zhang (2024–)
-
 ### Postdocs
 - Charlie Wang
-
 ### Alumni
 -->
 
