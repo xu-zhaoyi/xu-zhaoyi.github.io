@@ -8,7 +8,7 @@ nav_order: 6
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zyprofile.jpg
   image_circular: false
   more_info: >
     <p>555 your office number</p>
