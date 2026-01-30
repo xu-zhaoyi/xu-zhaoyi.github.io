@@ -54,7 +54,7 @@ nav_order: 6
   <!-- Right: text -->
   <div style="flex:1;">
     <p>
-     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.
+     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. Contact me: llyuan@seas.upenn.edu
     </p>
 
     <p>
