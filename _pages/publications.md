@@ -22,8 +22,4 @@ nav_order: 2
 <h2>Conferences</h2>
 {% bibliography --query @*[pubtype=conference] %}
 
-
 </div>
-
-
-<!--  {% bibliography %}  -->
