@@ -457,7 +457,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Zhaoyi_resume_251122.pdf", "_blank");
+          window.open("/assets/pdf/Zhaoyi_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
