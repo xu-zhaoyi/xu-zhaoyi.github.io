@@ -46,25 +46,32 @@ nav_order: 6
 -->
 
 
+
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
-  <!-- Left: image + contact -->
-  <div style="width:260px; flex-shrink:0;">
+  <!-- Left: image + contact -->  
+ <div style="width:260px; flex-shrink:0;">
     <img src="/assets/img/Linyuan.jpg"
          alt="Profile photo"
          style="width:100%; border-radius:6px;" />
-
   </div>
 
   <!-- Right: text -->
-  **Lingyuan Li**
-  <div style="flex:1;">
-   <p>
-     I received my undergraduate training in Biochemistry at the University of Michigan, Ann Arbor. I am currently pursuing a Master’s degree in Biotechnology at the University of Pennsylvania. My research interests focus on integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems. 
-    </p>
-    <p>Contact me: llyuan@seas.upenn.edu </p> 
-</div>
 
+    <div style="flex:1; font-size:14px; line-height:1.35;">
+    <div style="font-weight:700; font-size:18px;"> Lingyuan Li</div>
+    <p>Contact me: llyuan@seas.upenn.edu </p> 
+    <div>Current: pursuing a Master’s degree in Biotechnology at the University of Pennsylvania</div>
+    
+    <div>Undergraduate training</div>
+    <div>Biochemistry at the University of Michigan, Ann Arbor.</div>
+
+    <div style="height:10px;"></div>
+    <div style="font-weight:700;">Academic Training</div>
+    <div>integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
+  </div>
+
+ 
 <!--
     <p>
       You can put a picture in too. The code is already in, just name
