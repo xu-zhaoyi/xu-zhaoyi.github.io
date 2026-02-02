@@ -8,13 +8,12 @@ nav_order: 6
 ---
 
 
+## Teaching Assistant
 
 {% include courses.liquid %}
 
-
-## Teaching Assistant
-
-- **ME 335**: Heat Transfer, University of Michigan, Winter 2026 (20 hrs/week)
+ <!-- 
+ - **ME 335**: Heat Transfer, University of Michigan, Winter 2026 (20 hrs/week)
 -  Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
 -  Developed experience in large-class teaching and course coordination.
 - **ME 495**: Laboratory II, University of Michigan, Fall 2025 (20 hrs/week)
@@ -24,8 +23,6 @@ nav_order: 6
 - **MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020 (15 hrs/week)
 - Supported a lab course of ˜130 students in a four-TA team.
 - Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition
-
- <!-- 
 \begin{joblong}{ME 335 Heat Transfer}{University of Michigan, Winter 2026}
 \item[] {\hspace{-0.4cm}{\textcolor{black!80}{Graduate Student Instructor (Teaching Assistant) (20 hrs/week)}}}
 \item Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
@@ -71,13 +68,19 @@ nav_order: 6
   <!-- Right: text -->
 
     <div style="flex:1; font-size:14px; line-height:1.35;">
+    
     <div style="font-weight:700; font-size:18px;"> Lingyuan Li</div>
+    
     <p> Contact me: llyuan@seas.upenn.edu </p> 
+
+    <div style="height:20px;"></div>
+    
     <div> Academic training:</div>
     <div> B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
+    
     <div> (Current) Master of Biotechnology, University of Pennsylvania</div>
 
-    <div style="height:10px;"></div>
+    <div style="height:20px;"></div>
     <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
   </div>
 
