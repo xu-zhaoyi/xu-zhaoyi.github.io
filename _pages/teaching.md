@@ -73,7 +73,7 @@ nav_order: 6
     
     <p> Contact me: llyuan@seas.upenn.edu </p> 
 
-    <div style="height:20px;"></div>
+    <div style="height:18px;"></div>
     
     <div> Academic training:</div>
     <div> B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
