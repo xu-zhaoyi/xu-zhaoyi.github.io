@@ -453,10 +453,20 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-me-335-heat-transfer-university-of-michigan-20-hrs-week",
-          title: 'ME 335 Heat Transfer, University of Michigan, 20 hrs/week',
+          title: 'ME 335 Heat: Transfer, University of Michigan, 20 hrs/week',
           description: "[&quot;Led instruction for 93 students; designed/delivered recitation lectures and held office hours.&quot;, &quot;Developed experience in large-class teaching and course coordination.&quot;]",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ME3352026/";
+            },},{id: "teachings-me-495-laboratory-ii-university-of-michigan-20-hrs-week",
+          title: 'ME 495: Laboratory II University of Michigan, 20 hrs/week',
+          description: "[&quot;Designed and taught two lab sections (24 students) for senior-level laboratory course.&quot;, &quot;Broad topics included heat transfer, mechanical dynamics, and AFM-based nanoscale metrology.&quot;, &quot;Gained extensive self-directed learning and close student mentorship.&quot;]",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ME4952025/";
+            },},{id: "teachings-mie-342-circuits-with-applications-to-mechanical-engineering-systems-15-hrs-week",
+          title: 'MIE 342: Circuits with Applications to Mechanical Engineering Systems, 15 hrs/week',
+          description: "[&quot;Supported a lab course of ˜130 students in a four-TA team.&quot;, &quot;Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition&quot;]",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/MIE3420220/";
             },},{
         id: 'social-cv',
         title: 'CV',
