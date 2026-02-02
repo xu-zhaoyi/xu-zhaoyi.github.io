@@ -16,16 +16,18 @@ layout: default
 
   <div class="post-content">
     {% if page.description %}
-      {% if page.description.first %}
-        <ul>
-          {% for item in page.description %}
-            <li>{{ item }}</li>
-          {% endfor %}
-        </ul>
-      {% else %}
-        {{ page.description | markdownify }}
-      {% endif %}
-    {% endif %}
+  {% if page.description.first %}
+    <ul class="course-desc">
+      {% for item in page.description %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <div class="course-desc">
+      {{ page.description | markdownify }}
+    </div>
+  {% endif %}
+{% endif %}
 
     {{ content }}
   </div>
