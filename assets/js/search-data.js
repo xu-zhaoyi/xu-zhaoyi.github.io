@@ -452,11 +452,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-me-335-heat-transfer-university-of-michigan-20-hrs-week",
+          title: 'ME 335 Heat Transfer, University of Michigan, 20 hrs/week',
+          description: "[&quot;Led instruction for 93 students; designed/delivered recitation lectures and held office hours.&quot;, &quot;Developed experience in large-class teaching and course coordination.&quot;]",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/ME3352026/";
             },},{
         id: 'social-cv',
         title: 'CV',
