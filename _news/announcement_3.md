@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work <a href="https://arxiv.org/abs/2505.04820" target="_blank">Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction</a> was accepted to IEEE Transactions on Computational Imaging! :sparkles::bulb:
+Our work <a href="https://ieeexplore.ieee.org/document/11216083" target="_blank">Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing MRI Reconstruction</a> was accepted to IEEE Transactions on Computational Imaging! :sparkles::bulb:
