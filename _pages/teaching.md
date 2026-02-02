@@ -10,8 +10,18 @@ nav_order: 6
 ## Teaching Assistant
 
 - **ME 335**: Heat Transfer, University of Michigan, Winter 2026
+-  (20 hrs/week)
+-  Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
+-  Developed experience in large-class teaching and course coordination.
 - **ME 495**: Laboratory II, University of Michigan, Fall 2025
+- (20 hrs/week)
+- Designed and taught two lab sections (24 students) for senior-level laboratory course.
+- Broad topics included heat transfer, mechanical dynamics, and AFM-based nanoscale metrology.
+- Gained extensive self-directed learning and close student mentorship.
 - **MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
+- (15 hrs/week)
+- Supported a lab course of ˜130 students in a four-TA team.
+- Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition
 
  <!-- 
 \begin{joblong}{ME 335 Heat Transfer}{University of Michigan, Winter 2026}
@@ -61,14 +71,11 @@ nav_order: 6
     <div style="flex:1; font-size:14px; line-height:1.35;">
     <div style="font-weight:700; font-size:18px;"> Lingyuan Li</div>
     <p>Contact me: llyuan@seas.upenn.edu </p> 
-    <div>Current: pursuing a Master’s degree in Biotechnology at the University of Pennsylvania</div>
-    
-    <div>Undergraduate training</div>
-    <div>Biochemistry at the University of Michigan, Ann Arbor.</div>
+    <div>Current: Master in Biotechnology at the University of Pennsylvania</div>
+    <div>Undergraduate training: Biochemistry at the University of Michigan, Ann Arbor.</div>
 
     <div style="height:10px;"></div>
-    <div style="font-weight:700;">Academic Training</div>
-    <div>integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
+    <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
   </div>
 
  
