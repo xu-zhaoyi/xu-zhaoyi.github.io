@@ -22,7 +22,7 @@
               {% endif %}
             </div>
 
-            {{% if course.description %}
+            {% if course.description %}
   <div class="course-description">
     {% assign desc_json = course.description | jsonify %}
     {% if desc_json contains '[' %}
