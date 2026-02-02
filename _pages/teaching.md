@@ -9,17 +9,14 @@ nav_order: 6
 
 ## Teaching Assistant
 
-- **ME 335**: Heat Transfer, University of Michigan, Winter 2026
--  (20 hrs/week)
+- **ME 335**: Heat Transfer, University of Michigan, Winter 2026 (20 hrs/week)
 -  Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
 -  Developed experience in large-class teaching and course coordination.
-- **ME 495**: Laboratory II, University of Michigan, Fall 2025
-- (20 hrs/week)
+- **ME 495**: Laboratory II, University of Michigan, Fall 2025 (20 hrs/week)
 - Designed and taught two lab sections (24 students) for senior-level laboratory course.
 - Broad topics included heat transfer, mechanical dynamics, and AFM-based nanoscale metrology.
 - Gained extensive self-directed learning and close student mentorship.
-- **MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020
-- (15 hrs/week)
+- **MIE 342**: Circuits with Applications to Mechanical Engineering Systems, Fall 2020 (15 hrs/week)
 - Supported a lab course of ˜130 students in a four-TA team.
 - Co-developed online laboratory tools for remote instruction during COVID-19, enabling virtual circuit assembly and experimental data acquisition
 
