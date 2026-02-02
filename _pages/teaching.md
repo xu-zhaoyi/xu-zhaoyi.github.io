@@ -80,7 +80,7 @@ nav_order: 6
     
     <div> (Current) Master of Biotechnology, University of Pennsylvania</div>
 
-    <div style="height:20px;"></div>
+    <div style="height:23px;"></div>
     <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
   </div>
 
