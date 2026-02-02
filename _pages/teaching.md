@@ -67,9 +67,10 @@ nav_order: 6
 
     <div style="flex:1; font-size:14px; line-height:1.35;">
     <div style="font-weight:700; font-size:18px;"> Lingyuan Li</div>
-    <p>Contact me: llyuan@seas.upenn.edu </p> 
-    <div>Current: Master in Biotechnology at the University of Pennsylvania</div>
-    <div>Undergraduate training: Biochemistry at the University of Michigan, Ann Arbor.</div>
+    <p> Contact me: llyuan@seas.upenn.edu </p> 
+    <div> Academic training:</div>
+    <div> B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
+    (Current) Master of Biotechnology, University of Pennsylvania</div>
 
     <div style="height:10px;"></div>
     <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
