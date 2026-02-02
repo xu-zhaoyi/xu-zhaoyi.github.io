@@ -1,31 +1,43 @@
-/* Teaching courses include */
-.courses .course-item {
+.course-card {
+  margin: 1.5rem 0;
   border: 1px solid #e5e5e5;
-  border-radius: 0;            /* square corners; change to 8px if you want rounded */
-  padding: 1.25rem;
+  border-radius: 0;
+  padding: 1.5rem 1.75rem;
   background: #fff;
-  margin: 1rem 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+
+  // layout alignment similar to al-folio
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
 }
 
-.courses .course-title {
-  margin-top: 0;
+.course-card .course-title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
 
-.courses .course-title a {
+.course-card .course-title a {
   color: var(--global-theme-color);
   text-decoration: none;
 }
 
-.courses .course-title a:hover {
+.course-card .course-title a:hover {
   text-decoration: underline;
 }
 
-.courses .course-meta {
-  margin: 0.25rem 0 0.75rem 0;
-  opacity: 0.85;
+.course-card .course-meta {
+  font-size: 0.95rem;
+  color: var(--global-text-muted);
+  margin-bottom: 0.4rem;
 }
 
-.courses .course-meta span + span::before {
+.course-card .course-meta span + span::before {
   content: " • ";
+}
+
+.course-card .course-description {
+  margin-top: 0.5rem;
+  font-size: 1rem;
 }
