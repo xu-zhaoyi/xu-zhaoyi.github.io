@@ -9,6 +9,9 @@ nav_order: 6
 
 ## Teaching Assistant
 
+{% include courses.liquid %}
+
+
 - **ME 335**: Heat Transfer, University of Michigan, Winter 2026 (20 hrs/week)
 -  Led instruction for 93 students; designed/delivered recitation lectures and held office hours.
 -  Developed experience in large-class teaching and course coordination.
