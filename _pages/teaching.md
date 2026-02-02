@@ -70,7 +70,7 @@ nav_order: 6
     <p> Contact me: llyuan@seas.upenn.edu </p> 
     <div> Academic training:</div>
     <div> B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
-    (Current) Master of Biotechnology, University of Pennsylvania</div>
+    <div> (Current) Master of Biotechnology, University of Pennsylvania</div>
 
     <div style="height:10px;"></div>
     <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
