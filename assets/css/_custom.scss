@@ -1,12 +1,16 @@
 .course-card {
-  border: 1px solid #e5e5e5;
-  border-radius: 8px;   // set to 0 for sharp square
   padding: 1.25rem;
-  background-color: #ffffff;
   margin-bottom: 1.5rem;
 }
 
-.course-title {
-  color: #c000c0;       // match your purple
-  margin-top: 0;
+.course-card.boxed {
+  border: 1px solid #e5e5e5;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.course-card.plain {
+  border: none;
+  background: transparent;
+  padding: 0;
 }
