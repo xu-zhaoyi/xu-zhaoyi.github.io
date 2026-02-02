@@ -30,22 +30,6 @@ layout: default
 {% endif %}
 
 
-{% if course.description %}
-  <div class="course-description">
-    {% assign desc_json = course.description | jsonify %}
-    {% if desc_json contains '[' %}
-      <ul class="course-desc">
-        {% for item in course.description %}
-          <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-    {% else %}
-      {{ course.description | markdownify }}
-    {% endif %}
-  </div>
-{% endif %}
-
-
     {{ content }}
   </div>
 </article>
