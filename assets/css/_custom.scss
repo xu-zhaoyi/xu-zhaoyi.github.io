@@ -1,23 +1,31 @@
-.course-card {
-  margin: 1rem 0;
-}
-
-.course-card.boxed {
+/* Teaching courses include */
+.courses .course-item {
   border: 1px solid #e5e5e5;
-  border-radius: 8px;
+  border-radius: 0;            /* square corners; change to 8px if you want rounded */
   padding: 1.25rem;
   background: #fff;
+  margin: 1rem 0;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-.course-card.plain {
-  border: none;
-  padding: 0;
-  background: transparent;
-  box-shadow: none;
+.courses .course-title {
+  margin-top: 0;
 }
 
-.course-title {
+.courses .course-title a {
   color: var(--global-theme-color);
-  margin-top: 0;
+  text-decoration: none;
+}
+
+.courses .course-title a:hover {
+  text-decoration: underline;
+}
+
+.courses .course-meta {
+  margin: 0.25rem 0 0.75rem 0;
+  opacity: 0.85;
+}
+
+.courses .course-meta span + span::before {
+  content: " • ";
 }
