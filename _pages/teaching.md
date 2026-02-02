@@ -59,7 +59,7 @@ nav_order: 6
 <div style="display:flex; gap:2rem; align-items:flex-start;">
 
   <!-- Left: image + contact -->  
-<div style="width:160px; flex-shrink:0;">
+<div style="width:180px; flex-shrink:0;">
   <img src="/assets/img/Linyuan.jpg"
        alt="Profile photo"
        style="width:100%; height:auto; border-radius:6px;" />
