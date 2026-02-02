@@ -1,43 +1,53 @@
-.course-card {
-  margin: 1.5rem 0;
-  border: 1px solid #e5e5e5;
-  border-radius: 0;
+/* === Teaching cards: match al-folio demo hover === */
+
+.courses .course-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.courses .course-item {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 8px;
   padding: 1.5rem 1.75rem;
   background: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 
-  // layout alignment similar to al-folio
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
+  /* initial subtle shadow */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+
+  /* smooth hover animation */
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+  will-change: transform;
 }
 
-.course-card .course-title {
-  margin: 0;
-  font-size: 1.25rem;
-  font-weight: 600;
+.courses .course-item:hover {
+  transform: translateY(-6px); /* "move up" on hover */
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  border-color: rgba(0,0,0,0.18);
 }
 
-.course-card .course-title a {
+/* Title link style (purple like demo) */
+.courses .course-title {
+  margin: 0 0 0.75rem 0;
+}
+
+.courses .course-title a {
   color: var(--global-theme-color);
   text-decoration: none;
 }
 
-.course-card .course-title a:hover {
+.courses .course-title a:hover {
   text-decoration: underline;
 }
 
-.course-card .course-meta {
-  font-size: 0.95rem;
-  color: var(--global-text-muted);
-  margin-bottom: 0.4rem;
+/* Meta line spacing */
+.courses .course-meta {
+  margin: 0.25rem 0 1rem 0;
 }
 
-.course-card .course-meta span + span::before {
-  content: " • ";
+.courses .course-meta span + span::before {
+  content: "    ";
 }
 
-.course-card .course-description {
-  margin-top: 0.5rem;
-  font-size: 1rem;
+.courses .course-list {
+  overflow: visible;
 }
