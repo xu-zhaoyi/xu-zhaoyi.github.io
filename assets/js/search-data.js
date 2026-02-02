@@ -404,7 +404,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-using-randomized-nyström-preconditioners-to-accelerate-variational-image-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile",
           title: 'Our work Using Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction was accepted...',
           description: "",
-          section: "News",},{id: "news-our-work-convergent-complex-quasi-newton-proximal-methods-for-gradient-driven-denoisers-in-compressed-sensing-mri-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile",
+          section: "News",},{id: "news-our-work-convergent-complex-quasi-newton-proximal-methods-for-gradient-driven-denoisers-in-compressed-sensing-mri-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-sparkles-bulb",
           title: 'Our work Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing...',
           description: "",
           section: "News",},{id: "projects-project-1",
