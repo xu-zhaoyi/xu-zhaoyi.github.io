@@ -398,7 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-sparkles-smile",
+            },},{id: "news-i-am-thrilled-to-receive-the-young-investigator-award-at-the-8th-bioengineering-and-translational-medicine-conference-trophy",
           title: 'I am thrilled to receive the Young Investigator Award at the 8th Bioengineering...',
           description: "",
           section: "News",},{id: "news-our-work-using-randomized-nyström-preconditioners-to-accelerate-variational-image-reconstruction-was-accepted-to-ieee-transactions-on-computational-imaging-smile",
