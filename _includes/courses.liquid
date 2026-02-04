@@ -14,8 +14,6 @@
              {% endcomment %}
 
 {% if course.url %}
-  <a href="{{ course.url | relative_url }}"><span>{{ course.title }}</span></a>
-{% else %}
   <span>{{ course.title }}</span>
 {% endif %}
 
