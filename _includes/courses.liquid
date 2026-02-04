@@ -13,9 +13,10 @@
             <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
              {% endcomment %}
 
-<span class="course-title">
+ <a href="{{ course.url | relative_url }}">{{ <span class="course-title">
   {{ item.title }}
-</span>
+</span>}}</a>
+
 
 {% endif %}
 
