@@ -73,3 +73,10 @@ html[data-theme="dark"] .courses .course-item:hover,
 .dark-mode .courses .course-item:hover {
   box-shadow: 0 12px 28px rgba(0,0,0,0.50);
 }
+
+
+.teaching a {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
