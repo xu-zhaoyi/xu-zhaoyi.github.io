@@ -13,14 +13,10 @@
             <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
              {% endcomment %}
 
-{% if item.url %}
-  <a class="course-title" href="{{ item.url }}">
-    {{ item.title }}
-  </a>
-{% else %}
-  <span class="course-title">
-    {{ item.title }}
-  </span>
+<span class="course-title">
+  {{ item.title }}
+</span>
+
 {% endif %}
 
             </h3>
