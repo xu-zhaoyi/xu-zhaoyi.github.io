@@ -75,6 +75,24 @@ html[data-theme="dark"] .courses .course-item:hover,
 }
 
 
+/* Show term inline after year */
+.year-term {
+  font-weight: 400;
+  margin-left: 0.35rem;
+}
+
+/* More space between teaching items */
+.courses .course-list {
+  margin-bottom: 3.5rem;  /* space after each course block */
+}
+
+.courses .course-item {
+  padding-bottom: 0.2rem;
+}
+
+.courses .course-desc li {
+  margin-bottom: 0.55rem; /* space between bullets */
+}
 
 .ta-list > li > ul > li {
   margin-bottom: 0.45rem;  /* space between bullet lines inside a course */
