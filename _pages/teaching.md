@@ -8,7 +8,10 @@ nav_order: 6
 ---
 
 
-## Teaching Assistant
+<h2>Teaching Assistant</h2>
+
+<div style="margin-top: 3rem;"></div>
+
 
 {% include courses.liquid %}
 
