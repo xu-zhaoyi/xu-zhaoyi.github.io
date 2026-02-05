@@ -3,10 +3,53 @@
     {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
 
     {% for year_group in courses_by_year %}
+{% comment %}
       <h2 class="year">{{ year_group.name }}</h2>
       <div class="course-list">
         {% assign year_courses = year_group.items | sort: 'term' %}
         {% for course in year_courses %}
+ {% endcomment %}
+{% assign year_courses = year_group.items | sort: 'term' | reverse %}
+{% for course in year_courses %}
+  <h2 class="year">
+    {{ year_group.name }}
+    {% if course.term %}<span class="year-term"> · {{ course.term }}</span>{% endif %}
+  </h2>
+
+  <div class="course-list">
+    <div class="course-item">
+      <h3 class="course-title">
+        {% if course.url %}
+          <span style="color: var(--global-theme-color);">{{ course.title }}</span>
+        {% endif %}
+      </h3>
+
+      <div class="course-meta">
+        {# remove term here #}
+
+        {% if course.instructor %}
+          <span class="course-instructor">{{ course.instructor }}</span>
+        {% endif %}
+      </div>
+
+      {% if course.description %}
+        <div class="course-description">
+          {% assign desc_json = course.description | jsonify %}
+          {% if desc_json contains '[' %}
+            <ul class="course-desc">
+              {% for item in course.description %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            {{ course.description | markdownify }}
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
+
           <div class="course-item">
             <h3 class="course-title">
              {% comment %}
