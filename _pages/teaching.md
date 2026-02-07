@@ -48,15 +48,6 @@ nav_order: 6
 
 ## Students Mentoring
 
-<!-- 
-### PhD Students
-- Alice Smith (2023–)
-- Bob Zhang (2024–)
-### Postdocs
-- Charlie Wang
-### Alumni
--->
-
 
 
 <div style="display:flex; gap:2rem; align-items:flex-start;">
