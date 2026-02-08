@@ -96,7 +96,22 @@ html[data-theme="dark"] .courses .course-item:hover,
 }
 
 
-/* Term · Year — plain text, no background */
+
+/* Plain term · year text */
+.course-term {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+
+  font-size: 0.9rem;
+  font-weight: 500;
+ 
+}
+
+
+/* Term · Year badge */
+/* color: var(--global-theme-color);
 .term-badge {
   background: none !important;
   border: none !important;
@@ -108,8 +123,6 @@ html[data-theme="dark"] .courses .course-item:hover,
   color: var(--global-theme-color);
 }
 
-/* Term · Year badge */
-/*
 .term-badge {
   display: inline-block;
   padding: 0.18rem 0.6rem;
@@ -131,6 +144,8 @@ html[data-theme="dark"] .courses .course-item:hover,
   margin: 0 0.15em;
   vertical-align: middle;
 }
+
+
 
 
 /* More space between teaching items */
