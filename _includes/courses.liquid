@@ -23,11 +23,20 @@
             </h3>
 
             <div class="course-meta">
+
+{% if course.term %}
+  <span class="course-term term-badge">
+    {{ course.term }} {{ year_group.name }}
+  </span>
+{% endif %}
+
+ {% comment %}
               {% if course.term %}
                 <span class="course-term">{{ course.term }}</span>
               {% endif %}
+ {% endcomment %}
 
-              {% if course.instructor %}
+{% if course.instructor %}
                 <span class="course-instructor">{{ course.instructor }}</span>
               {% endif %}
             </div>
