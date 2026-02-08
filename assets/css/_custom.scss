@@ -96,7 +96,20 @@ html[data-theme="dark"] .courses .course-item:hover,
 }
 
 
+/* Term · Year — plain text, no background */
+.term-badge {
+  background: none !important;
+  border: none !important;
+  padding: 0;
+  border-radius: 0;
+
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--global-theme-color);
+}
+
 /* Term · Year badge */
+/*
 .term-badge {
   display: inline-block;
   padding: 0.18rem 0.6rem;
@@ -109,6 +122,7 @@ html[data-theme="dark"] .courses .course-item:hover,
   color: #1f6feb;
   border: 1px solid #c9ddff;
 }
+*/
 
 /* Bigger middle dot between term and year */
 .term-dot {
