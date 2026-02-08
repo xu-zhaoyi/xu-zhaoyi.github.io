@@ -110,6 +110,14 @@ html[data-theme="dark"] .courses .course-item:hover,
   border: 1px solid #c9ddff;
 }
 
+/* Bigger middle dot between term and year */
+.term-dot {
+  font-size: 1.2em;        /* bigger than text */
+  font-weight: 600;
+  margin: 0 0.15em;
+  vertical-align: middle;
+}
+
 
 /* More space between teaching items */
 .courses .course-list {
