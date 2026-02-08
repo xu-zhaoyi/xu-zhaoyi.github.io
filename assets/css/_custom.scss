@@ -1,3 +1,13 @@
+/* ================================
+   Global theme color (BLUE)
+   ================================ */
+
+:root {
+  --global-theme-color: #1f6feb;   // main blue
+  --global-hover-color: #1558c0;   // darker blue for hover
+}
+
+
 /* === Teaching cards: adaptive light/dark + hover === */
 
 .courses .course-list {
