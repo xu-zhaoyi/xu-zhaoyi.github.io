@@ -84,12 +84,18 @@ html[data-theme="dark"] .courses .course-item:hover,
   box-shadow: 0 12px 28px rgba(0,0,0,0.50);
 }
 
+/* Show year after term (Fall 2025) */
+.course-item .year-term::after {
+  content: " " attr(data-year);
+}
 
 /* Show term inline after year */
 .year-term {
   font-weight: 400;
   margin-left: 0.35rem;
 }
+
+
 
 /* More space between teaching items */
 .courses .course-list {
@@ -106,4 +112,10 @@ html[data-theme="dark"] .courses .course-item:hover,
 
 .ta-list > li > ul > li {
   margin-bottom: 0.45rem;  /* space between bullet lines inside a course */
+}
+
+
+/* Hide the big year headers in teaching page */
+.courses h2.year {
+  display: none;
 }
