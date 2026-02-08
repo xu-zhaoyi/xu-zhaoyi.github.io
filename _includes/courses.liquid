@@ -26,7 +26,9 @@
 
 {% if course.term %}
   <span class="course-term term-badge">
-    {{ course.term }}  &middot; {{ year_group.name }}
+{{ course.term }}
+<span class="term-dot">&middot;</span>
+{{ year_group.name }}
   </span>
 {% endif %}
 
