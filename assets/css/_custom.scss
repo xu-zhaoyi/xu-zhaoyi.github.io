@@ -3,29 +3,28 @@
    ================================ */
 
 :root {
-  --global-theme-color: #35698F;   // main blue
-  --global-hover-color: #234F6F;   // lighter blue for hover
+  --global-theme-color: #35698F;   /* main blue */
+  --global-hover-color: #234F6F;   /* lighter blue for hover */
 }
 
-/* Default links (nav, buttons, etc.) */
-.page-content a,
-.post-content a,
-.article a,
-.content a,
-main a {
-  color: var(--global-theme-color);
+/* Content links only, exclude buttons/navbar */
+.page-content a:not(.btn),
+.post-content a:not(.btn),
+.article a:not(.btn),
+.content a:not(.btn),
+main a:not(.btn) {
+  color: var(--global-theme-color) !important;
   font-weight: 500;
   letter-spacing: 0.01em;
-  text-decoration: none;   /* ensure no underline */
+  text-decoration: none !important;
 }
 
-.page-content a:hover,
-.post-content a:hover,
-.article a:hover,
-.content a:hover,
-main a:hover {
-  color: var(--global-hover-color);
-  text-decoration: none;
+.page-content a:not(.btn):hover,
+.post-content a:not(.btn):hover,
+.article a:not(.btn):hover,
+.content a:not(.btn):hover,
+main a:not(.btn):hover {
+  color: var(--global-hover-color) !important;
 }
 
 /* === Teaching cards: adaptive light/dark + hover === */
