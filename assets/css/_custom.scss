@@ -252,11 +252,12 @@ html[data-theme="dark"] .courses .course-item:hover,
 
 
 
-/* Teaching page (/teaching/): course titles from courses.liquid */
+/* Card title in /teaching/ */
 .courses .course-title {
   color: var(--global-theme-color) !important;
   font-weight: 700 !important;
   letter-spacing: 0.01em;
+  text-decoration: none !important;
 }
 
 .courses .course-title:hover {
