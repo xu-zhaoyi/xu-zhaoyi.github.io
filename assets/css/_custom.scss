@@ -249,3 +249,21 @@ html[data-theme="dark"] .courses .course-item:hover,
 .courses h2.year {
   display: none;
 }
+
+
+/* change course title color */
+/* Course layout page title (title is usually an <h1>, not an <a>) */
+.page-content h1,
+.post-content h1,
+main h1 {
+  color: var(--global-theme-color) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.01em;
+}
+
+/* Optional hover */
+.page-content h1:hover,
+.post-content h1:hover,
+main h1:hover {
+  color: var(--global-hover-color) !important;
+}
