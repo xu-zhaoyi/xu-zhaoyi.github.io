@@ -116,15 +116,19 @@ main a:not(.btn):hover {
   text-decoration: underline;
 }
 */
-.courses .course-title a {
-  color: var(--global-theme-color);
-  font-weight: 600;              /* key improvement */
-  letter-spacing: 0.01em;
-  text-decoration: none;
+
+/* FORCE course title link styling */
+.courses .course-title a,
+.courses .course-title a:visited {
+  color: var(--global-theme-color) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.01em !important;
+  text-decoration: none !important;
 }
 
 .courses .course-title a:hover {
-  color: var(--global-hover-color);
+  color: var(--global-hover-color) !important;
+  text-decoration: none !important;
 }
 
 /* Meta + description readability */
