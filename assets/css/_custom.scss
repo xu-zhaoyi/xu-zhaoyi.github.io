@@ -7,6 +7,25 @@
   --global-hover-color: #234F6F;   // lighter blue for hover
 }
 
+/* Default links (nav, buttons, etc.) */
+a {
+  color: var(--global-theme-color);
+}
+
+a:hover {
+  color: var(--global-hover-color);
+}
+
+/* Inline links in paragraphs */
+p a {
+  color: var(--global-theme-color);
+  font-weight: 500;        /* key change */
+}
+
+p a:hover {
+  color: var(--global-hover-color);
+}
+
 /* === Teaching cards: adaptive light/dark + hover === */
 
 .courses .course-list {
