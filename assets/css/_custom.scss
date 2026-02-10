@@ -8,22 +8,24 @@
 }
 
 /* Default links (nav, buttons, etc.) */
-a {
+.page-content a,
+.post-content a,
+.article a,
+.content a,
+main a {
   color: var(--global-theme-color);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-decoration: none;   /* ensure no underline */
 }
 
-a:hover {
+.page-content a:hover,
+.post-content a:hover,
+.article a:hover,
+.content a:hover,
+main a:hover {
   color: var(--global-hover-color);
-}
-
-/* Inline links in paragraphs */
-p a {
-  color: var(--global-theme-color);
-  font-weight: 500;        /* key change */
-}
-
-p a:hover {
-  color: var(--global-hover-color);
+  text-decoration: none;
 }
 
 /* === Teaching cards: adaptive light/dark + hover === */
