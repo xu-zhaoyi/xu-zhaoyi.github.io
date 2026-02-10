@@ -250,3 +250,18 @@ html[data-theme="dark"] .courses .course-item:hover,
   display: none;
 }
 
+
+
+/* Course page (layout you pasted): title is h1.post-title */
+.post .post-title {
+  color: var(--global-theme-color) !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.01em;
+  text-decoration: none !important;
+}
+
+.post .post-title:hover {
+  color: var(--global-hover-color) !important;
+}
+
+
