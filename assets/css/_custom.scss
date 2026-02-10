@@ -27,6 +27,27 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
+/* Cover common al-folio containers */
+.about a:not(.btn),
+.news a:not(.btn),
+.publications a:not(.btn),
+.cv a:not(.btn),
+.card a:not(.btn) {
+  color: var(--global-theme-color) !important;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-decoration: none !important;
+}
+
+.about a:not(.btn):hover,
+.news a:not(.btn):hover,
+.publications a:not(.btn):hover,
+.cv a:not(.btn):hover,
+.card a:not(.btn):hover {
+  color: var(--global-hover-color) !important;
+}
+
+
 /* === Teaching cards: adaptive light/dark + hover === */
 
 .courses .course-list {
