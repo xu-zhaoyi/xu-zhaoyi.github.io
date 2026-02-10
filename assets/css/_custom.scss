@@ -250,15 +250,3 @@ html[data-theme="dark"] .courses .course-item:hover,
   display: none;
 }
 
-
-/* change course title color */
-/* Teaching page: course titles are headings (<h3>), not links */
-.page-content h3 {
-  color: var(--global-theme-color) !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.01em;
-}
-
-.page-content h3:hover {
-  color: var(--global-hover-color) !important;
-}
