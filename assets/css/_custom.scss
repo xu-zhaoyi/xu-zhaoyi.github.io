@@ -47,6 +47,27 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
+/* About page links (al-folio about layout tends to use .post / .about) */
+.about a:not(.btn),
+.about-page a:not(.btn),
+.post a:not(.btn),
+.post-content a:not(.btn),
+.clearfix a:not(.btn) {
+  color: var(--global-theme-color) !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.01em;
+  text-decoration: none !important;
+}
+
+.about a:not(.btn):hover,
+.about-page a:not(.btn):hover,
+.post a:not(.btn):hover,
+.post-content a:not(.btn):hover,
+.clearfix a:not(.btn):hover {
+  color: var(--global-hover-color) !important;
+}
+
+
 
 /* === Teaching cards: adaptive light/dark + hover === */
 
