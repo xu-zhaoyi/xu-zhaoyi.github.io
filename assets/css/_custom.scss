@@ -67,6 +67,18 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
+/* About paragraph links only (safe) */
+.about p a:not(.btn),
+.post-content p a:not(.btn) {
+  color: var(--global-theme-color) !important;
+  font-weight: 500;
+  text-decoration: none !important;
+}
+
+.about p a:not(.btn):hover,
+.post-content p a:not(.btn):hover {
+  color: var(--global-hover-color) !important;
+}
 
 
 /* === Teaching cards: adaptive light/dark + hover === */
