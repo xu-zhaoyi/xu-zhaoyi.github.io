@@ -11,7 +11,7 @@
 
 /* Content links only, exclude buttons/navbar */
 
-/*
+
 .page-content a:not(.btn),
 .post-content a:not(.btn),
 .article a:not(.btn),
@@ -22,7 +22,7 @@ main a:not(.btn) {
   letter-spacing: 0.01em;
   text-decoration: none !important;
 }
-*/
+
 .page-content a:not(.btn):hover,
 .post-content a:not(.btn):hover,
 .article a:not(.btn):hover,
@@ -34,7 +34,7 @@ main a:not(.btn):hover {
 
 /* Cover common al-folio containers */
 
-/*
+
 .about a:not(.btn),
 .news a:not(.btn),
 .publications a:not(.btn),
@@ -45,7 +45,7 @@ main a:not(.btn):hover {
   letter-spacing: 0.01em;
   text-decoration: none !important;
 }
-*/
+
 .about a:not(.btn):hover,
 .news a:not(.btn):hover,
 .publications a:not(.btn):hover,
@@ -54,6 +54,13 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
+/* Make News & Selected Publications text black */
+.news,
+.news a,
+.publications,
+.publications a {
+  color: #000 !important;
+}
 
 
 /* === Teaching cards: adaptive light/dark + hover === */
@@ -251,11 +258,4 @@ html[data-theme="dark"] .courses .course-item:hover,
   color: var(--global-hover-color) !important;
 }
 
-/* Make News & Selected Publications text black */
-.news,
-.news a,
-.publications,
-.publications a {
-  color: #000 !important;
-}
 
