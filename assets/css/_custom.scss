@@ -8,11 +8,12 @@
 }
 
 
-/* Disable links in News & Selected Publications */
+/* Make News & Selected Publications text black */
+.news,
 .news a,
+.publications,
 .publications a {
-  pointer-events: none;
-  cursor: default;
+  color: #000 !important;
 }
 
 /* Content links only, exclude buttons/navbar */
