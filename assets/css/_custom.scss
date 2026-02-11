@@ -11,7 +11,7 @@
 
 /* Content links only, exclude buttons/navbar */
 
-
+/*
 .page-content a:not(.btn),
 .post-content a:not(.btn),
 .article a:not(.btn),
@@ -30,11 +30,10 @@ main a:not(.btn) {
 main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
-
+*/
 
 /* Cover common al-folio containers */
-
-
+/*
 .about a:not(.btn),
 .news a:not(.btn),
 .publications a:not(.btn),
@@ -53,15 +52,17 @@ main a:not(.btn):hover {
 .card a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
+*/
 
 /* Make News & Selected Publications text black */
+/*
 .news,
 .news a,
 .publications,
 .publications a {
   color: #000 !important;
 }
-
+*/
 
 /* === Teaching cards: adaptive light/dark + hover === */
 
@@ -247,6 +248,7 @@ html[data-theme="dark"] .courses .course-item:hover,
 
 
 /* Card title in /teaching/ */
+/*
 .courses .course-title {
   color: var(--global-theme-color) !important;
   font-weight: 400 !important;
@@ -257,5 +259,6 @@ html[data-theme="dark"] .courses .course-item:hover,
 .courses .course-title:hover {
   color: var(--global-hover-color) !important;
 }
+*/
 
 
