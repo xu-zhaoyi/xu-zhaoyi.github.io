@@ -27,8 +27,9 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
+
 /* Cover common al-folio containers */
-.about a:not(.btn),
+ .about a:not(.btn),
 .news a:not(.btn),
 .publications a:not(.btn),
 .cv a:not(.btn),
@@ -47,36 +48,23 @@ main a:not(.btn):hover {
   color: var(--global-hover-color) !important;
 }
 
-/* About page links (al-folio about layout tends to use .post / .about) */
-.about a:not(.btn),
-.about-page a:not(.btn),
-.post a:not(.btn),
-.post-content a:not(.btn),
-.clearfix a:not(.btn) {
+/* About page links ONLY — exclude news & publications */
+.about a:not(.btn):not(.news a):not(.publications a),
+.about-page a:not(.btn):not(.news a):not(.publications a),
+.post a:not(.btn):not(.news a):not(.publications a),
+.post-content a:not(.btn):not(.news a):not(.publications a),
+.clearfix a:not(.btn):not(.news a):not(.publications a) {
   color: var(--global-theme-color) !important;
   font-weight: 500 !important;
   letter-spacing: 0.01em;
   text-decoration: none !important;
 }
 
-.about a:not(.btn):hover,
-.about-page a:not(.btn):hover,
-.post a:not(.btn):hover,
-.post-content a:not(.btn):hover,
-.clearfix a:not(.btn):hover {
-  color: var(--global-hover-color) !important;
-}
-
-/* About paragraph links only (safe) */
-.about p a:not(.btn),
-.post-content p a:not(.btn) {
-  color: var(--global-theme-color) !important;
-  font-weight: 500;
-  text-decoration: none !important;
-}
-
-.about p a:not(.btn):hover,
-.post-content p a:not(.btn):hover {
+.about a:not(.btn):not(.news a):not(.publications a):hover,
+.about-page a:not(.btn):not(.news a):not(.publications a):hover,
+.post a:not(.btn):not(.news a):not(.publications a):hover,
+.post-content a:not(.btn):not(.news a):not(.publications a):hover,
+.clearfix a:not(.btn):not(.news a):not(.publications a):hover {
   color: var(--global-hover-color) !important;
 }
 
