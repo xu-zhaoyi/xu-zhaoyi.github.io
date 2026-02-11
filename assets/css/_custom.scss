@@ -8,13 +8,6 @@
 }
 
 
-/* Make News & Selected Publications text black */
-.news,
-.news a,
-.publications,
-.publications a {
-  color: #000 !important;
-}
 
 /* Content links only, exclude buttons/navbar */
 .page-content a:not(.btn),
@@ -55,6 +48,14 @@ main a:not(.btn):hover {
 .cv a:not(.btn):hover,
 .card a:not(.btn):hover {
   color: var(--global-hover-color) !important;
+}
+
+/* Make News & Selected Publications text black */
+.news,
+.news a,
+.publications,
+.publications a {
+  color: #000 !important;
 }
 
 
