@@ -7,6 +7,14 @@
   --global-hover-color: #234F6F;   /* lighter blue for hover */
 }
 
+
+/* Disable links in News & Selected Publications */
+.news a,
+.publications a {
+  pointer-events: none;
+  cursor: default;
+}
+
 /* Content links only, exclude buttons/navbar */
 .page-content a:not(.btn),
 .post-content a:not(.btn),
