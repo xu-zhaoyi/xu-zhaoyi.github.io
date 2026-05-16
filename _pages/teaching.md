@@ -53,7 +53,6 @@ nav_order: 6
 <div style="display:flex; gap:4rem; align-items:flex-start; flex-wrap:wrap;">
 
 
-
   <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px;">
 
     <!-- Image -->
@@ -92,7 +91,7 @@ nav_order: 6
 
 
 
-  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px; margin-top:70px;">
+  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px; margin-top:50px;">
 
     <!-- Image -->
     <div style="width:170px; flex-shrink:0;">
