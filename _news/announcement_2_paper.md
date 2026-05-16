@@ -1,8 +1,0 @@
----
-layout: post
-date: 2025-10-08 07:59:00-0400
-inline: true
-related_posts: false
----
-
-Our work <a href="https://ieeexplore.ieee.org/document/11208616" target="_blank">Using Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction</a> was accepted to *IEEE Transactions on Computational Imaging*! :smile:
