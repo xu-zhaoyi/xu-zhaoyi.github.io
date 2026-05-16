@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'Our work Convergent Complex Quasi-Newton Proximal Methods for Gradient-Driven Denoisers in Compressed Sensing...',
           description: "",
           section: "News",},{id: "news-our-work-acoustic-cell-patterning-reveals-geometry-and-substrate-dependent-vasculogenesis-and-human-embryo-model-development-was-accepted-to-nature-communications",
-          title: 'Our work Acoustic cell patterning reveals geometry- and substrate-dependent vasculogenesis and human embryo...',
+          title: 'Our work Acoustic Cell Patterning Reveals Geometry- and Substrate-Dependent Vasculogenesis and Human Embryo...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
