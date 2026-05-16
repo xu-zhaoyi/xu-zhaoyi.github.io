@@ -50,64 +50,84 @@ nav_order: 6
 
 
 
-<div style="display:flex; gap:2rem; align-items:flex-start;">
+<div style="display:flex; gap:4rem; align-items:flex-start; flex-wrap:wrap;">
 
-  <!-- Left: image + contact -->  
-<div style="width:170px; flex-shrink:0;">
-  <img src="/assets/img/Linyuan.jpg"
-       alt="Profile photo"
-       style="width:100%; height:auto; border-radius:6px;" />
-</div>
 
-  <!-- Right: text -->
 
+  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px;">
+
+    <!-- Image -->
+    <div style="width:170px; flex-shrink:0;">
+      <img src="/assets/img/Linyuan.jpg"
+           alt="Profile photo"
+           style="width:100%; height:auto; border-radius:6px;" />
+    </div>
+
+    <!-- Text -->
     <div style="flex:1; font-size:14px; line-height:1.35;">
-    
-    <div style="font-weight:700; font-size:18px;"> Lingyuan Li</div>
-    
-    <p> Contact me: llyuan@seas.upenn.edu </p> 
 
-    <div style="height:18px;"></div>
-    
-    <div> Academic training:</div>
-    <div> B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
-    
-    <div> (Current) Master of Biotechnology, University of Pennsylvania</div>
+      <div style="font-weight:700; font-size:18px;">
+        Lingyuan Li
+      </div>
 
-    <div style="height:23px;"></div>
-    <div  style="margin-bottom:3rem;">Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
+      <p>Contact me: llyuan@seas.upenn.edu</p>
+
+      <div style="height:18px;"></div>
+
+      <div>Academic training:</div>
+      <div>B.S. in Biochemistry, University of Michigan-Ann Arbor</div>
+      <div>(Current) Master of Biotechnology, University of Pennsylvania</div>
+
+      <div style="height:23px;"></div>
+
+      <div>
+        Research interest: integrating developmental biology with
+        bioinformatics, with the goal of using quantitative and computational
+        approaches to study developmental processes and regulatory mechanisms
+        in complex biological systems.
+      </div>
+
+    </div>
   </div>
 
 
 
+  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px; margin-top:70px;">
 
-<div style="display:flex; gap:2rem; align-items:flex-start;">
+    <!-- Image -->
+    <div style="width:170px; flex-shrink:0;">
+      <img src="/assets/img/RuxinYang.png"
+           alt="Profile photo"
+           style="width:100%; height:auto; border-radius:6px;" />
+    </div>
 
-  <!-- Left: image + contact -->  
-<div style="width:170px; flex-shrink:0;">
-  <img src="/assets/img/RuxinYang.png"
-       alt="Profile photo"
-       style="width:100%; height:auto; border-radius:6px;" />
-</div>
-
-  <!-- Right: text -->
-
+    <!-- Text -->
     <div style="flex:1; font-size:14px; line-height:1.35;">
-    
-    <div style="font-weight:700; font-size:18px;"> Ruxin Yang</div>
-    
-    <p> Contact me: yangrx@umich.edu </p> 
 
-    <div style="height:18px;"></div>
-    
-    <div> Academic training:</div>
-    <div> Master in Biomedical Engineering, University of Michigan, Ann Arbor</div>
-    
-    <div> (Current) Research Assistant in MGH</div>
+      <div style="font-weight:700; font-size:18px;">
+        Ruxin Yang
+      </div>
 
-    <div style="height:23px;"></div>
-    <div>Research interest:  Understanding the mechanism of drug resistance in AML, and exploring synergistic therapeutic strategies that can enhance treatment response and overcome resistance.</div>
+      <p>Contact me: yangrx@umich.edu</p>
+
+      <div style="height:18px;"></div>
+
+      <div>Academic training:</div>
+      <div>Master in Biomedical Engineering, University of Michigan, Ann Arbor</div>
+      <div>(Current) Research Assistant in MGH</div>
+
+      <div style="height:23px;"></div>
+
+      <div>
+        Research interest: Understanding the mechanism of drug resistance in AML,
+        and exploring synergistic therapeutic strategies that can enhance treatment
+        response and overcome resistance.
+      </div>
+
+    </div>
   </div>
+
+</div>
 
 
  
