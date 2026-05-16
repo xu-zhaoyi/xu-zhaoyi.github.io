@@ -78,6 +78,38 @@ nav_order: 6
     <div>Research interest: integrating developmental biology with bioinformatics, with the goal of using quantitative and computational approaches to study developmental processes and regulatory mechanisms in complex biological systems.</div>
   </div>
 
+
+
+
+<div style="display:flex; gap:2rem; align-items:flex-start;">
+
+  <!-- Left: image + contact -->  
+<div style="width:170px; flex-shrink:0;">
+  <img src="/assets/img/RuxinYang.png"
+       alt="Profile photo"
+       style="width:100%; height:auto; border-radius:6px;" />
+</div>
+
+  <!-- Right: text -->
+
+    <div style="flex:1; font-size:14px; line-height:1.35;">
+    
+    <div style="font-weight:700; font-size:18px;"> Ruxin Yang</div>
+    
+    <p> Contact me: yangrx@umich.edu </p> 
+
+    <div style="height:18px;"></div>
+    
+    <div> Academic training:</div>
+    <div> Master in Biomedical Engineering, University of Michigan, Ann Arbor</div>
+    
+    <div> (Current) Research Assistant in MGH</div>
+
+    <div style="height:23px;"></div>
+    <div>Research interest:  Understanding the mechanism of drug resistance in AML, and exploring synergistic therapeutic strategies that can enhance treatment response and overcome resistance.</div>
+  </div>
+
+
  
 <!--
     <p>
