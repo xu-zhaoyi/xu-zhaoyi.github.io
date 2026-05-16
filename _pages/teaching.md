@@ -91,7 +91,7 @@ nav_order: 6
 
 
 
-  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px; margin-top:50px;">
+  <div style="display:flex; gap:2rem; align-items:flex-start; max-width:520px; margin-top:35px;">
 
     <!-- Image -->
     <div style="width:170px; flex-shrink:0;">
