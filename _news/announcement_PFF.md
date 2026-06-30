@@ -13,6 +13,6 @@ I received the <a href="/assets/img/Linyuan.jpg">certificate of completion</a> f
 
 <br><br>
 
-<a href="/assets/img/Linyuan.jpg">
-    <img src="/assets/img/Linyuan.jpg" alt="Preparing Future Faculty Certificate" width="500">
+<a href="/assets/img/news/PFF.jpg">
+    <img src="/assets/img/news/PFF.jpg" alt="Preparing Future Faculty Certificate" width="300">
 </a>
