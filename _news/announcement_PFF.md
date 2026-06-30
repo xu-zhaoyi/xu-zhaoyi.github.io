@@ -8,3 +8,11 @@ related_posts: false
 I received the **certificate of completion** for the **2026 Rackham-CRLT Preparing Future Faculty Seminar**! 
 
 <img src="/assets/img/news/PFF.jpg" alt="Preparing Future Faculty Certificate" width="200">
+
+I received the <a href="/assets/img/Linyuan.jpg">certificate of completion</a> for the <strong>2026 Rackham-CRLT Preparing Future Faculty Seminar</strong>! 🎉
+
+<br><br>
+
+<a href="/assets/img/Linyuan.jpg">
+    <img src="/assets/img/Linyuan.jpg" alt="Preparing Future Faculty Certificate" width="500">
+</a>
