@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I received the **certificate of completion** for the **2026 Rackham-CRLT Preparing Future Faculty Seminar**! 🎉
+I received the **certificate of completion** for the **2026 Rackham-CRLT Preparing Future Faculty Seminar**! 
 
-<img src="/assets/img/news/PFF.jpg" alt="Preparing Future Faculty Certificate" width="500">
+<img src="/assets/img/news/PFF.pdf" alt="Preparing Future Faculty Certificate" width="500">
