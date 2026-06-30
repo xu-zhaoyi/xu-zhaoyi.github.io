@@ -410,7 +410,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-acoustic-cell-patterning-reveals-geometry-and-substrate-dependent-vasculogenesis-and-human-embryo-model-development-was-accepted-to-nature-communications",
           title: 'Our work Acoustic Cell Patterning Reveals Geometry- and Substrate-Dependent Vasculogenesis and Human Embryo...',
           description: "",
-          section: "News",},{id: "news-i-received-the-certificate-of-completion-for-the-2026-rackham-crlt-preparing-future-faculty-seminar-i-received-the-certificate-of-completion-for-the-2026-rackham-crlt-preparing-future-faculty-seminar",
+          section: "News",},{id: "news-i-received-the-certificate-of-completion-for-the-2026-rackham-crlt-preparing-future-faculty-seminar",
           title: 'I received the certificate of completion for the 2026 Rackham-CRLT Preparing Future Faculty...',
           description: "",
           section: "News",},{id: "projects-project-1",
