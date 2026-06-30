@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I received the <a href="https://ieeexplore.ieee.org/document/11208616" target="_blank"> certificate of completion</a> - "2026 Rackham-CRLT Preparing Future Faculty Seminar"!! 🎉
+I received the **certificate of completion** for the **2026 Rackham-CRLT Preparing Future Faculty Seminar**! 🎉
+
+<img src="/assets/img/news/PFF.jpg" alt="Preparing Future Faculty Certificate" width="500">
