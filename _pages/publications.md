@@ -16,7 +16,7 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>Ongoing Research and Manuscripts</h2>
+<h2>Ongoing Manuscripts</h2>
 {% bibliography --query @*[pubtype=ongoing] %}
 
 <h2>Journals</h2>
